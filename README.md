@@ -3,7 +3,6 @@
 ## 💫About Me :
 - 🌱 I’m currently learning FASTAPI and React.
 - 💬 Ask me about Python, Django and Java.
-- 📄 Get my [Resume](https://drive.google.com/file/d/1ezta06dlH-looiS10APzuGuRIsYg9Wyy/view?usp=sharing) 
 - ⚡ Fun fact I'm an INFP
                                                                                                                                  
 ## 💻Languages and Tools

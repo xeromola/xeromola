@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Ujjawal
 
 ## 💫About Me :
-- 🌱 I’m currently learning FASTAPI and React.
+- 🌱 I build CLI tools, APIs and games.
 - 💬 Ask me about Python, Django and Java.
 - ⚡ Fun fact I'm an INFP
                                                                                                                                  
